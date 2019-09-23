@@ -9,7 +9,7 @@
 
 int main(int argc, const char *argv[])
 {
-	printf("hello world \n");
-	printf("hello linux\n");
+	printf("hello world1111111 \n");
+	printf("hello linux12333\n");
     return 0;
 }
